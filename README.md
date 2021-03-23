@@ -42,3 +42,13 @@ HTML:
 
 BOOTSTRAP:
 * round-circle - aredonda as bordas da imagem
+
+## Quinta Aula
+BOOTSTRAP:
+* text-center - centralizar texto
+* row - elmento para envolver colunas
+* col-lg-4 - elemento que define as colunas por linha e seu tamanhos (total de 12 colunas por linha)
+
+## Sexta Aula
+HTML:
+* footer - tag que especifica o rodapé da pagina 

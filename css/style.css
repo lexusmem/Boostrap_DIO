@@ -2,6 +2,9 @@ body{
     font: century;
 }
 
+.espaco{
+    margin-top: 500px;
+}
 .navbar{
     background-color: #F2D7D5;
 }
@@ -14,4 +17,26 @@ body{
 .margin{
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+#parceiros{
+    background-color:whitesmoke;
+    color: gray;
+}
+
+#servicos{
+    background-color: gray;
+    color: #F2D7D5;
+}
+
+.teste_linha{
+    padding-bottom: 20px;
+}
+
+.teste_linha_acima{
+    padding-top: 20px;
+}
+
+.bg-footer{
+    background-color: burlywood;
 }
